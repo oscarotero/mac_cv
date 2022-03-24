@@ -47,6 +47,34 @@
       }
     ]
   },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "Lume",
+          "description": "Lume is a static site generator for Deno. It's inspired by other static site generators, such as Jekyll, Hugo or Eleventy, but it's easier to use and configure, besides being super flexible. It has support for multiple template engines, process assets like CSS, JavaScript or images.",
+          "URL": "https://lume.land/",
+          "image": {
+            "alt": "lume v2.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/7c4e6c21-f12d-45ba-a2fd-38182c970621_lume-v2.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-09-01",
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [
