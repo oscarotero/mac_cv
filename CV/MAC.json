@@ -72,6 +72,46 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "HA!",
+          "description": "HA! (or Historia Arte) is a web project about art.",
+          "URL": "https://historia-arte.com",
+          "image": {
+            "alt": "logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2ca0cad-770f-449f-a5e3-25e81c3bed04_logo.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2026-09-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "web components",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
