@@ -39,6 +39,12 @@
         "type": "other",
         "URL": "https://oscarotero.gal"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "I play the bass",
+        "fact": "I'm the bass guitarrist and co-singer in a music band trio."
+      }
     ]
   },
   "careerPreferences": {
@@ -47,6 +53,30 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/misteroom/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Figma",
+          "type": "technology"
+        },
+        {
+          "name": "Jamstack",
+          "type": "technology"
         }
       ]
     }
