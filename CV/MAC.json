@@ -1,0 +1,54 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Oscar",
+      "surnames": "Otero",
+      "title": "Digital designer & web developer",
+      "description": "I'm a digital designer with 20 years of experience. I'm currently working in marketgoo as product designer.",
+      "avatar": {
+        "alt": "avatar-ollos.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/37cf6f35-324e-4dac-a3e3-100b723e6624_avatar-ollos.jpg"
+      },
+      "location": {
+        "notes": "Santiago de Compostela"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/misteroom/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/oscarotero/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/misteroom"
+      },
+      {
+        "type": "other",
+        "URL": "https://oscarotero.com"
+      },
+      {
+        "type": "other",
+        "URL": "https://oscarotero.gal"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/misteroom/"
+        }
+      ]
+    }
+  }
+}
