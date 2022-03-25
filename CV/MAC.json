@@ -165,6 +165,10 @@
               {
                 "name": "JavaScript",
                 "type": "technology"
+              },
+              {
+                "name": "Deno",
+                "type": "technology"
               }
             ]
           }
