@@ -48,6 +48,47 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Chipi",
+          "image": {
+            "alt": "horizontal.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ff4385a4-ea2b-4a1a-ba79-a057f3aaed7d_horizontal.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead designer",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "I've been working as UX designer for CHIPI, a start up based on Auckland, New Zealand (now defunct) with a desktop app to search documents, messages, files and chats from your personal accounts (Google Drive, Trello, Slack, Gmail, etc).\n\nThe design prototypes (in Sketch) are available here: https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526\n\nA HTML interactive prototype is here: https://oscarotero.github.io/chipi-client/"
+              }
+            ],
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Sketch",
+                "type": "technology"
+              },
+              {
+                "name": "Electron",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
