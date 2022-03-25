@@ -153,6 +153,24 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Os tres pés do deseño web",
+          "description": "I was one of the speakers in the FEED 2015, a design events organized by DAG. The conference is available in YouTube (https://youtu.be/qZEqS2QSfrc)",
+          "URL": "https://dag.gal/gl/feed2015/",
+          "image": {
+            "alt": "feed.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/916cbf44-8ecf-4252-8100-ddf1fd69e692_feed.jpg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2015-11-01",
+        "tags": [
+          ""
+        ]
+      }
     ]
   },
   "careerPreferences": {
