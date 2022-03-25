@@ -76,7 +76,7 @@
       {
         "details": {
           "name": "HA!",
-          "description": "HA! (or Historia Arte) is a web project about art.",
+          "description": "HA! (or Historia Arte) is a web project about art, one of the most popular websites in spanish. Every day we analyze an artwork.",
           "URL": "https://historia-arte.com",
           "image": {
             "alt": "logo.jpg",
@@ -94,19 +94,19 @@
                 "type": "technology"
               },
               {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "web components",
-                "type": "technology"
-              },
-              {
                 "name": "JavaScript",
                 "type": "technology"
               },
               {
                 "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "web components",
                 "type": "technology"
               }
             ]
@@ -127,15 +127,15 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JavaScript",
-          "type": "technology"
-        },
-        {
           "name": "HTML",
           "type": "technology"
         },
         {
           "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
           "type": "technology"
         },
         {
