@@ -170,6 +170,18 @@
         "tags": [
           ""
         ]
+      },
+      {
+        "details": {
+          "name": "Sistemas de deseño",
+          "description": "Meetup organized by WordPress Galicia in Lugo. I've talked about design systems, what they are and how to create one. In galician language.",
+          "URL": "https://oscarotero.gal/keynotes/sistemas-de-desenho.pdf"
+        },
+        "type": "talk",
+        "publishingDate": "2019-11-01",
+        "tags": [
+          "Design"
+        ]
       }
     ]
   },
