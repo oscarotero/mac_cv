@@ -134,6 +134,54 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Abanca",
+          "image": {
+            "alt": "Abanca_logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/55b6f909-b3f2-4696-9e9e-cc4c80a09860_abanca_logo.svg"
+          },
+          "URL": "https://abanca.com"
+        },
+        "roles": [
+          {
+            "name": "UX designer",
+            "startDate": "2016-10-01",
+            "finishDate": "2019-01-01",
+            "challenges": [
+              {
+                "description": "I've joined to the UX team of Abanca, working on the design style guide and prototyping applications for internal purposes."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "AngularJS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Sketch",
+                "type": "technology"
+              },
+              {
+                "name": "MaterialUI",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
