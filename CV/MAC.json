@@ -238,46 +238,6 @@
     "projects": [
       {
         "details": {
-          "name": "HA!",
-          "description": "HA! (or Historia Arte) is a web project about art, one of the most popular websites in spanish. Every day we analyze an artwork.",
-          "URL": "https://historia-arte.com",
-          "image": {
-            "alt": "logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2ca0cad-770f-449f-a5e3-25e81c3bed04_logo.jpg"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2026-09-01",
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "web components",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Embed",
           "description": "A PHP library to get information from any website (using oembed, open graph, twitter cards, scrapping the HTML, etc). It provides the page title, description, main image, embed code, language, etc.",
           "URL": "https://github.com/oscarotero/Embed"
@@ -342,6 +302,46 @@
               },
               {
                 "name": "Deno",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "HA!",
+          "description": "HA! (or Historia Arte) is a web project about art, one of the most popular websites in spanish. Every day we analyze an artwork.",
+          "URL": "https://historia-arte.com",
+          "image": {
+            "alt": "logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2ca0cad-770f-449f-a5e3-25e81c3bed04_logo.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-09-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "web components",
                 "type": "technology"
               }
             ]
