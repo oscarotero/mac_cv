@@ -87,6 +87,53 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "marketgoo",
+          "image": {
+            "alt": "logo_marketgoo color.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0c426301-7c4a-4860-9b92-1d35067ffb9c_logo_marketgoo-color.svg"
+          },
+          "URL": "https://marketgoo.com"
+        },
+        "roles": [
+          {
+            "name": "Product designer",
+            "startDate": "2019-02-01",
+            "challenges": [
+              {
+                "description": "As the first product designer of the company I've created the Ola design system, and have been working on prototyping, UI design, user interviews and use to be a bridge between product team and engineering."
+              }
+            ],
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Sketch",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "PostCSS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
