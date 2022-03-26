@@ -182,6 +182,57 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "A navalla suiza",
+          "image": {
+            "alt": "logo ans.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/29f29b4a-7fdf-4310-bf49-5f1444b4a02b_logo-ans.svg"
+          }
+        },
+        "roles": [
+          {
+            "name": "Web designer, developer & Cofounder",
+            "startDate": "2004-01-01",
+            "finishDate": "2015-03-01",
+            "challenges": [
+              {
+                "description": "I've been working as designer and developer for clients like NFB of Canada, Abanca, Xunta de Galicia, Siniestro Total, USC, Ao Norte, etc. We have won adwards like Mestre Mateo (for flocos.tv) and MIPVT at Cannes (for Canadian Augmented Films project)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Sketch",
+                "type": "technology"
+              },
+              {
+                "name": "Adobe Illustrator",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "projects": [
