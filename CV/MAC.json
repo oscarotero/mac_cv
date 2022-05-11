@@ -399,13 +399,24 @@
       {
         "details": {
           "name": "jQuery stylesheet",
-          "URL": "http://oscarotero.com/jquery/"
+          "URL": "http://oscarotero.com/jquery/",
+          "image": {
+            "alt": "jquery.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/fe65a8ac-c9f8-4b89-a49f-d49b35f9aa96_jquery.png"
+          }
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2008-01-01"
+            "startDate": "2008-01-01",
+            "finishDate": "2008-01-01",
+            "competences": [
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
