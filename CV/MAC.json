@@ -424,6 +424,7 @@
       {
         "details": {
           "name": "letrag",
+          "description": "One of my first side projects: an encyclopedia of typography. It contains articles, font classification, some interviews, etc. It was also the project in which I started to code and learned PHP and Flash (I created the design, development and contents).",
           "URL": "http://letrag.com"
         },
         "type": "sideProject",
