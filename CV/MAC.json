@@ -355,7 +355,7 @@
       {
         "details": {
           "name": "PHP Gettext",
-          "description": "PHP library that implements gettext. It can import/export different formats like PO, MO, JSON, etc. One of the most popular libraries in PHP with more than 9 millions of installs.",
+          "description": "PHP library that implements gettext. It can import/export different formats like PO, MO, JSON, etc.",
           "URL": "https://github.com/php-gettext",
           "image": {
             "alt": "gettext.png",
