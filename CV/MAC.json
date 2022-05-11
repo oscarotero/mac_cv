@@ -9,7 +9,7 @@
       "name": "Oscar",
       "surnames": "Otero",
       "title": "Digital designer & web developer",
-      "description": "I'm a digital designer with 20 years of experience. I'm currently working in marketgoo as product designer.",
+      "description": "I'm a digital designer with 20 years of experience. I'm currently working at marketgoo as product designer.",
       "avatar": {
         "alt": "avatar-ollos.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/37cf6f35-324e-4dac-a3e3-100b723e6624_avatar-ollos.jpg"
@@ -43,7 +43,7 @@
     "interestingFacts": [
       {
         "topic": "I play the bass",
-        "fact": "I'm the bass guitarrist and co-singer in a music band trio."
+        "fact": "I'm the bass guitarrist and co-singer in a music band trio (sometimes quartet)."
       }
     ]
   },
@@ -482,6 +482,14 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Galician"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
