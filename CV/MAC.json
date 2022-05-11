@@ -185,24 +185,6 @@
       },
       {
         "organization": {
-          "name": "ABANCA",
-          "URL": "https://www.linkedin.com/company/abanca?trk=public_profile_experience-item_result-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Senior UX Designer",
-            "startDate": "2016-10-01",
-            "finishDate": "2019-01-31",
-            "challenges": [
-              {
-                "description": "In my team, we're responsible for the creation and maintenance of the \"style book\", containing the specification of the UI components and recommendations of good practices in the design and development of apps for ABANCA, both for internal use and for the customer. We also work on the design of prototypes for many applications, user tests, usability analysis, etc, and we take care that development team has all the necessary resouces. Sometimes, I work in the creation of small prototypes, demos and other projects that require knowledge of frontend/backend coding (css, html and node/javascript)."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Freelance",
           "URL": "https://www.linkedin.com/company/freelance-web-developer-designer_4?trk=public_profile_experience-item_result-card_subtitle-click"
         },
