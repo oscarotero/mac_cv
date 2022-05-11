@@ -292,6 +292,10 @@
       {
         "organization": {
           "name": "tresCtres",
+          "image": {
+            "alt": "oom.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/6bf428a9-d53f-4fe0-b5fd-60716bbe5df7_oom.svg"
+          },
           "URL": "https://www.linkedin.com/company/tresctres?trk=public_profile_experience-item_result-card_subtitle-click"
         },
         "roles": [
@@ -301,7 +305,7 @@
             "finishDate": "2004-12-31",
             "challenges": [
               {
-                "description": "Publishing design and branding. Publishing design and branding."
+                "description": "Publishing design and branding."
               }
             ]
           }
