@@ -399,6 +399,7 @@
       {
         "details": {
           "name": "jQuery stylesheet",
+          "description": "This was a interactive reference for all versions of JQuery, with links to the original documentation.",
           "URL": "http://oscarotero.com/jquery/",
           "image": {
             "alt": "jquery.png",
