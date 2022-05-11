@@ -20,16 +20,8 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/misteroom/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/oscarotero/"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/misteroom"
       },
       {
         "type": "other",
@@ -38,6 +30,14 @@
       {
         "type": "other",
         "URL": "https://oscarotero.gal"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/misteroom"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/misteroom/"
       }
     ],
     "interestingFacts": [
@@ -49,45 +49,6 @@
   },
   "experience": {
     "jobs": [
-      {
-        "organization": {
-          "name": "Chipi",
-          "image": {
-            "alt": "horizontal.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ff4385a4-ea2b-4a1a-ba79-a057f3aaed7d_horizontal.png"
-          }
-        },
-        "roles": [
-          {
-            "name": "Lead designer",
-            "startDate": "2018-09-01",
-            "finishDate": "2019-07-01",
-            "challenges": [
-              {
-                "description": "I've been working as UX designer for CHIPI, a start up based on Auckland, New Zealand (now defunct) with a desktop app to search documents, messages, files and chats from your personal accounts (Google Drive, Trello, Slack, Gmail, etc).\n\nThe design prototypes (in Sketch) are available here: https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526\n\nA HTML interactive prototype is here: https://oscarotero.github.io/chipi-client/"
-              }
-            ],
-            "competences": [
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Sketch",
-                "type": "technology"
-              },
-              {
-                "name": "Electron",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
       {
         "organization": {
           "name": "marketgoo",
@@ -108,15 +69,7 @@
             ],
             "competences": [
               {
-                "name": "React",
-                "type": "technology"
-              },
-              {
                 "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Sketch",
                 "type": "technology"
               },
               {
@@ -124,14 +77,74 @@
                 "type": "technology"
               },
               {
-                "name": "Storybook",
+                "name": "PostCSS",
                 "type": "technology"
               },
               {
-                "name": "PostCSS",
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sketch",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
                 "type": "technology"
               }
             ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Chipi",
+          "image": {
+            "alt": "horizontal.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ff4385a4-ea2b-4a1a-ba79-a057f3aaed7d_horizontal.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Lead designer",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-07-01",
+            "challenges": [
+              {
+                "description": "I've been working as UX designer for CHIPI, a start up based on Auckland, New Zealand (now defunct) with a desktop app to search documents, messages, files and chats from your personal accounts (Google Drive, Trello, Slack, Gmail, etc).\n\nThe design prototypes (in Sketch) are available here: https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526\n\nA HTML interactive prototype is here: https://oscarotero.github.io/chipi-client/"
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Electron",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Sketch",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "CHIPI",
+          "URL": "https://www.linkedin.com/company/chipi-io?trk=public_profile_experience-item_result-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "UX Designer",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-07-31"
           }
         ]
       },
@@ -156,15 +169,7 @@
             ],
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
                 "name": "AngularJS",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
                 "type": "technology"
               },
               {
@@ -172,12 +177,69 @@
                 "type": "technology"
               },
               {
-                "name": "Sketch",
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
                 "name": "MaterialUI",
                 "type": "technology"
+              },
+              {
+                "name": "Sketch",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ABANCA",
+          "URL": "https://www.linkedin.com/company/abanca?trk=public_profile_experience-item_result-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Senior UX Designer",
+            "startDate": "2016-10-01",
+            "finishDate": "2019-01-31",
+            "challenges": [
+              {
+                "description": "In my team, we're responsible for the creation and maintenance of the \"style book\", containing the specification of the UI components and recommendations of good practices in the design and development of apps for ABANCA, both for internal use and for the customer. We also work on the design of prototypes for many applications, user tests, usability analysis, etc, and we take care that development team has all the necessary resouces. Sometimes, I work in the creation of small prototypes, demos and other projects that require knowledge of frontend/backend coding (css, html and node/javascript)."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance",
+          "URL": "https://www.linkedin.com/company/freelance-web-developer-designer_4?trk=public_profile_experience-item_result-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Web UI designer",
+            "startDate": "2015-03-01",
+            "finishDate": "2016-10-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "A navalla suíza",
+          "URL": "https://www.linkedin.com/company/a-navalla-suiza?trk=public_profile_experience-item_result-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Designer and partner",
+            "startDate": "2008-01-01",
+            "finishDate": "2015-03-31",
+            "challenges": [
+              {
+                "description": "Web UI designer, creative director and web developer. Web UI designer, creative director and web developer."
               }
             ]
           }
@@ -203,15 +265,7 @@
             ],
             "competences": [
               {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
+                "name": "Adobe Illustrator",
                 "type": "technology"
               },
               {
@@ -219,16 +273,59 @@
                 "type": "technology"
               },
               {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
                 "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
                 "type": "technology"
               },
               {
                 "name": "Sketch",
                 "type": "technology"
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Acordar, Comunicación en Internet"
+        },
+        "roles": [
+          {
+            "name": "Graphic and web designer",
+            "startDate": "2004-01-01",
+            "finishDate": "2008-09-30",
+            "challenges": [
               {
-                "name": "Adobe Illustrator",
-                "type": "technology"
+                "description": "Branding, web and UX designer Branding, web and UX designer"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "tresCtres",
+          "URL": "https://www.linkedin.com/company/tresctres?trk=public_profile_experience-item_result-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Graphic designer",
+            "startDate": "2002-01-01",
+            "finishDate": "2004-12-31",
+            "challenges": [
+              {
+                "description": "Publishing design and branding. Publishing design and branding."
               }
             ]
           }
@@ -238,18 +335,79 @@
     "projects": [
       {
         "details": {
-          "name": "Embed",
-          "description": "A PHP library to get information from any website (using oembed, open graph, twitter cards, scrapping the HTML, etc). It provides the page title, description, main image, embed code, language, etc.",
-          "URL": "https://github.com/oscarotero/Embed"
+          "name": "Lume",
+          "description": "Lume is a static site generator for Deno. It's inspired by other static site generators, such as Jekyll, Hugo or Eleventy, but it's easier to use and configure, besides being super flexible. It has support for multiple template engines, process assets like CSS, JavaScript or images.",
+          "URL": "https://lume.land/",
+          "image": {
+            "alt": "lume v2.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/6f51fc2f-6835-48ae-8d68-efaf3bdab2d3_lume-v2.jpg"
+          }
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2012-10-01",
+            "startDate": "2020-09-01",
             "competences": [
               {
+                "name": "Deno",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Historia Arte (HA!)",
+          "URL": "https://historia-arte.com"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "HA!",
+          "description": "HA! (or Historia Arte) is a web project about art, one of the most popular websites in spanish. Every day we analyze an artwork.",
+          "URL": "https://historia-arte.com",
+          "image": {
+            "alt": "logo.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2ca0cad-770f-449f-a5e3-25e81c3bed04_logo.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2016-09-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
                 "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "web components",
                 "type": "technology"
               }
             ]
@@ -282,26 +440,18 @@
       },
       {
         "details": {
-          "name": "Lume",
-          "description": "Lume is a static site generator for Deno. It's inspired by other static site generators, such as Jekyll, Hugo or Eleventy, but it's easier to use and configure, besides being super flexible. It has support for multiple template engines, process assets like CSS, JavaScript or images.",
-          "URL": "https://lume.land/",
-          "image": {
-            "alt": "lume v2.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/6f51fc2f-6835-48ae-8d68-efaf3bdab2d3_lume-v2.jpg"
-          }
+          "name": "Embed",
+          "description": "A PHP library to get information from any website (using oembed, open graph, twitter cards, scrapping the HTML, etc). It provides the page title, description, main image, embed code, language, etc.",
+          "URL": "https://github.com/oscarotero/Embed"
         },
         "type": "openSource",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2020-09-01",
+            "startDate": "2012-10-01",
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Deno",
+                "name": "PHP",
                 "type": "technology"
               }
             ]
@@ -310,46 +460,45 @@
       },
       {
         "details": {
-          "name": "HA!",
-          "description": "HA! (or Historia Arte) is a web project about art, one of the most popular websites in spanish. Every day we analyze an artwork.",
-          "URL": "https://historia-arte.com",
-          "image": {
-            "alt": "logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2ca0cad-770f-449f-a5e3-25e81c3bed04_logo.jpg"
-          }
+          "name": "jQuery stylesheet",
+          "URL": "http://oscarotero.com/jquery/"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2016-09-01",
-            "competences": [
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "web components",
-                "type": "technology"
-              }
-            ]
+            "startDate": "2008-01-01"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "letrag",
+          "URL": "http://letrag.com"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2004-01-01",
+            "finishDate": "2010-12-31"
           }
         ]
       }
     ],
     "publicArtifacts": [
+      {
+        "details": {
+          "name": "Sistemas de deseño",
+          "description": "Meetup organized by WordPress Galicia in Lugo. I've talked about design systems, what they are and how to create one. In galician language.",
+          "URL": "https://oscarotero.gal/keynotes/sistemas-de-desenho.pdf"
+        },
+        "type": "talk",
+        "publishingDate": "2019-11-01",
+        "tags": [
+          "Design"
+        ]
+      },
       {
         "details": {
           "name": "Os tres pés do deseño web",
@@ -365,18 +514,74 @@
         "tags": [
           "Design"
         ]
+      }
+    ]
+  },
+  "knowledge": {
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
       },
       {
-        "details": {
-          "name": "Sistemas de deseño",
-          "description": "Meetup organized by WordPress Galicia in Lugo. I've talked about design systems, what they are and how to create one. In galician language.",
-          "URL": "https://oscarotero.gal/keynotes/sistemas-de-desenho.pdf"
-        },
-        "type": "talk",
-        "publishingDate": "2019-11-01",
-        "tags": [
-          "Design"
-        ]
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sketch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Figma",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Deno",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Superior tecnical Advertising Art",
+        "startDate": "2001-01-01",
+        "finishDate": "2002-12-31",
+        "institution": {
+          "name": "Escola Pablo Picasso, A Coruña"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico especialista Graphic and Printing Equipment Operator, General Production",
+        "startDate": "1999-01-01",
+        "finishDate": "2001-12-31",
+        "institution": {
+          "name": "Colexio Calvo Sotelo, A Coruña"
+        }
       }
     ]
   },
@@ -392,15 +597,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "HTML",
-          "type": "technology"
-        },
-        {
           "name": "CSS",
-          "type": "technology"
-        },
-        {
-          "name": "JavaScript",
           "type": "technology"
         },
         {
@@ -408,7 +605,15 @@
           "type": "technology"
         },
         {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
           "name": "Jamstack",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
           "type": "technology"
         }
       ]
