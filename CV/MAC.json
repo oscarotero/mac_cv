@@ -186,13 +186,38 @@
       {
         "organization": {
           "name": "Freelance",
-          "URL": "https://www.linkedin.com/company/freelance-web-developer-designer_4?trk=public_profile_experience-item_result-card_subtitle-click"
+          "image": {
+            "alt": "oom.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/322fe56f-d6b1-4397-9513-838c996f717e_oom.svg"
+          }
         },
         "roles": [
           {
             "name": "Web UI designer",
             "startDate": "2015-03-01",
-            "finishDate": "2016-10-31"
+            "finishDate": "2016-10-31",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Sketch",
+                "type": "technology"
+              }
+            ]
           }
         ]
       },
