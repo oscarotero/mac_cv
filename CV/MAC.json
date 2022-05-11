@@ -198,24 +198,6 @@
       },
       {
         "organization": {
-          "name": "A navalla suíza",
-          "URL": "https://www.linkedin.com/company/a-navalla-suiza?trk=public_profile_experience-item_result-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Designer and partner",
-            "startDate": "2008-01-01",
-            "finishDate": "2015-03-31",
-            "challenges": [
-              {
-                "description": "Web UI designer, creative director and web developer. Web UI designer, creative director and web developer."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "A navalla suiza",
           "image": {
             "alt": "logo ans.svg",
