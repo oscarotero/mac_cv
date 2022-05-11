@@ -419,7 +419,33 @@
           {
             "name": "Developer",
             "startDate": "2004-01-01",
-            "finishDate": "2010-12-31"
+            "finishDate": "2010-12-31",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Flash",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
           }
         ]
       }
