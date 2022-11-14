@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/37cf6f35-324e-4dac-a3e3-100b723e6624_avatar-ollos.jpg"
       },
       "location": {
-        "notes": "Santiago de Compostela"
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Santiago de Compostela",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -377,7 +380,7 @@
                 "type": "technology"
               },
               {
-                "name": "web components",
+                "name": "WebComponents",
                 "type": "technology"
               }
             ]
@@ -529,16 +532,24 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Galician"
+        "name": "Galician",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "PHP",
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Deno",
           "type": "technology"
         }
       },
@@ -550,31 +561,19 @@
       },
       {
         "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Sketch",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Figma",
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Deno",
+          "name": "Figma",
           "type": "technology"
         }
       }
@@ -633,7 +632,11 @@
           "name": "JavaScript",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Product Design (UI/UX)"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
