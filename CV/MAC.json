@@ -9,7 +9,7 @@
       "name": "Oscar",
       "surnames": "Otero",
       "title": "Digital designer & web developer",
-      "description": "I'm a digital designer with 20 years of experience. I'm currently working at marketgoo as product designer.",
+      "description": "",
       "avatar": {
         "alt": "avatar-ollos.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/37cf6f35-324e-4dac-a3e3-100b723e6624_avatar-ollos.jpg"
@@ -196,13 +196,19 @@
           "image": {
             "alt": "oom.svg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/322fe56f-d6b1-4397-9513-838c996f717e_oom.svg"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
             "name": "Web UI designer",
             "startDate": "2015-03-01",
             "finishDate": "2016-10-31",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "CSS",
@@ -298,7 +304,8 @@
       },
       {
         "organization": {
-          "name": "tresCtres"
+          "name": "tresCtres",
+          "URL": ""
         },
         "roles": [
           {
@@ -586,7 +593,8 @@
         "startDate": "2001-01-01",
         "finishDate": "2002-12-31",
         "institution": {
-          "name": "Escola Pablo Picasso, A Coruña"
+          "name": "Escola Pablo Picasso, A Coruña",
+          "description": ""
         }
       },
       {
@@ -596,7 +604,9 @@
         "startDate": "1999-01-01",
         "finishDate": "2001-12-31",
         "institution": {
-          "name": "Colexio Calvo Sotelo, A Coruña"
+          "name": "Colexio Calvo Sotelo, A Coruña",
+          "description": "",
+          "URL": ""
         }
       }
     ]
