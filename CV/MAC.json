@@ -31,6 +31,14 @@
         "fact": "I'm the bass guitarrist and co-singer in a music band trio (sometimes quartet)."
       }
     ],
+    "recommendations": [
+      {
+        "title": "Starred",
+        "type": "other",
+        "URL": "https://oscarotero.com/starred/",
+        "summary": "This is a list of articles related with web design and development that I enjoyed. This doesn't meen that I fully agree with them, but I found them very interesting."
+      }
+    ],
     "relevantLinks": [
       {
         "type": "linkedin",
@@ -785,6 +793,11 @@
       },
       {
         "name": "letrag"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "Starred"
       }
     ]
   }
