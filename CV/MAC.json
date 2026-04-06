@@ -46,11 +46,13 @@
       },
       {
         "type": "other",
-        "URL": "https://oscarotero.com"
+        "URL": "https://oscarotero.com",
+        "description": "Personal site"
       },
       {
         "type": "other",
-        "URL": "https://oscarotero.gal"
+        "URL": "https://oscarotero.gal",
+        "description": "Personal site (Galician)"
       }
     ]
   },
