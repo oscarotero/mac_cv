@@ -1,48 +1,26 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Oscar",
       "surnames": "Otero",
       "title": "Digital designer & web developer",
-      "description": "",
+      "description": "I'm a digital designer with 20 years of experience. I'm currently working at marketgoo as product designer.",
       "avatar": {
-        "alt": "avatar-ollos.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/37cf6f35-324e-4dac-a3e3-100b723e6624_avatar-ollos.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/37cf6f35-324e-4dac-a3e3-100b723e6624_avatar-ollos.jpg",
+        "alt": "avatar-ollos.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJp3Hd4kT-Lg0REeOHwIhoFOA)",
         "country": "España",
         "region": "Galicia",
-        "municipality": "Santiago de Compostela",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Santiago de Compostela"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/oscarotero/"
-      },
-      {
-        "type": "other",
-        "URL": "https://oscarotero.com"
-      },
-      {
-        "type": "other",
-        "URL": "https://oscarotero.gal"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/misteroom"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/misteroom/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I've been president of the DAG",
@@ -52,6 +30,28 @@
         "topic": "I play the bass",
         "fact": "I'm the bass guitarrist and co-singer in a music band trio (sometimes quartet)."
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/misteroom/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/oscarotero/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/misteroom"
+      },
+      {
+        "type": "other",
+        "URL": "https://oscarotero.com"
+      },
+      {
+        "type": "other",
+        "URL": "https://oscarotero.gal"
+      }
     ]
   },
   "experience": {
@@ -60,8 +60,8 @@
         "organization": {
           "name": "marketgoo",
           "image": {
-            "alt": "logo_marketgoo color.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0c426301-7c4a-4860-9b92-1d35067ffb9c_logo_marketgoo-color.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0c426301-7c4a-4860-9b92-1d35067ffb9c_logo_marketgoo-color.svg",
+            "alt": "logo_marketgoo color.svg"
           },
           "URL": "https://marketgoo.com"
         },
@@ -107,8 +107,8 @@
         "organization": {
           "name": "Chipi",
           "image": {
-            "alt": "horizontal.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ff4385a4-ea2b-4a1a-ba79-a057f3aaed7d_horizontal.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ff4385a4-ea2b-4a1a-ba79-a057f3aaed7d_horizontal.png",
+            "alt": "horizontal.png"
           }
         },
         "roles": [
@@ -146,8 +146,8 @@
         "organization": {
           "name": "Abanca",
           "image": {
-            "alt": "Abanca_logo.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/55b6f909-b3f2-4696-9e9e-cc4c80a09860_abanca_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/55b6f909-b3f2-4696-9e9e-cc4c80a09860_abanca_logo.svg",
+            "alt": "Abanca_logo.svg"
           },
           "URL": "https://abanca.com"
         },
@@ -194,21 +194,15 @@
         "organization": {
           "name": "Freelance",
           "image": {
-            "alt": "oom.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/322fe56f-d6b1-4397-9513-838c996f717e_oom.svg"
-          },
-          "URL": ""
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/322fe56f-d6b1-4397-9513-838c996f717e_oom.svg",
+            "alt": "oom.svg"
+          }
         },
         "roles": [
           {
             "name": "Web UI designer",
             "startDate": "2015-03-01",
             "finishDate": "2016-10-31",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "CSS",
@@ -238,8 +232,8 @@
         "organization": {
           "name": "A navalla suiza",
           "image": {
-            "alt": "logo ans.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/29f29b4a-7fdf-4310-bf49-5f1444b4a02b_logo-ans.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/29f29b4a-7fdf-4310-bf49-5f1444b4a02b_logo-ans.svg",
+            "alt": "logo ans.svg"
           }
         },
         "roles": [
@@ -304,8 +298,7 @@
       },
       {
         "organization": {
-          "name": "tresCtres",
-          "URL": ""
+          "name": "tresCtres"
         },
         "roles": [
           {
@@ -328,8 +321,8 @@
           "description": "Lume is a static site generator for Deno. It's inspired by other static site generators, such as Jekyll, Hugo or Eleventy, but it's easier to use and configure, besides being super flexible. It has support for multiple template engines, process assets like CSS, JavaScript and images.",
           "URL": "https://lume.land/",
           "image": {
-            "alt": "lume v2.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/6f51fc2f-6835-48ae-8d68-efaf3bdab2d3_lume-v2.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/6f51fc2f-6835-48ae-8d68-efaf3bdab2d3_lume-v2.jpg",
+            "alt": "lume v2.jpg"
           }
         },
         "type": "openSource",
@@ -360,8 +353,8 @@
           "description": "HA! (or Historia Arte) is a web project about art, one of the most popular websites in spanish. Every day we analyze an artwork.",
           "URL": "https://historia-arte.com",
           "image": {
-            "alt": "logo.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2ca0cad-770f-449f-a5e3-25e81c3bed04_logo.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/b2ca0cad-770f-449f-a5e3-25e81c3bed04_logo.jpg",
+            "alt": "logo.jpg"
           }
         },
         "type": "sideProject",
@@ -400,8 +393,8 @@
           "description": "PHP library that implements gettext. It can import/export different formats like PO, MO, JSON, etc.",
           "URL": "https://github.com/php-gettext",
           "image": {
-            "alt": "gettext.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/66d36501-2ec9-4f8a-9916-c0513469f353_gettext.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/66d36501-2ec9-4f8a-9916-c0513469f353_gettext.png",
+            "alt": "gettext.png"
           }
         },
         "type": "openSource",
@@ -444,8 +437,8 @@
           "description": "This was a interactive reference for all versions of JQuery, with links to the original documentation.",
           "URL": "http://oscarotero.com/jquery/",
           "image": {
-            "alt": "jquery.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/fe65a8ac-c9f8-4b89-a49f-d49b35f9aa96_jquery.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/11/fe65a8ac-c9f8-4b89-a49f-d49b35f9aa96_jquery.png",
+            "alt": "jquery.png"
           }
         },
         "type": "sideProject",
@@ -453,13 +446,13 @@
           {
             "name": "Developer",
             "startDate": "2008-01-01",
-            "finishDate": "2008-01-01",
             "competences": [
               {
                 "name": "jQuery",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2008-01-01"
           }
         ]
       },
@@ -474,7 +467,6 @@
           {
             "name": "Developer",
             "startDate": "2004-01-01",
-            "finishDate": "2010-12-31",
             "competences": [
               {
                 "name": "CSS",
@@ -500,7 +492,8 @@
                 "name": "jQuery",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2010-12-31"
           }
         ]
       }
@@ -524,8 +517,8 @@
           "description": "I was one of the speakers in the FEED 2015, a design events organized by DAG. The conference is available in YouTube (https://youtu.be/qZEqS2QSfrc)",
           "URL": "https://dag.gal/gl/feed2015/",
           "image": {
-            "alt": "feed.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/916cbf44-8ecf-4252-8100-ddf1fd69e692_feed.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/916cbf44-8ecf-4252-8100-ddf1fd69e692_feed.jpg",
+            "alt": "feed.jpg"
           }
         },
         "type": "talk",
@@ -539,11 +532,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Galician",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "GL",
+        "fullName": "Gallego",
         "level": "Limited working proficiency"
       }
     ],
@@ -562,13 +557,7 @@
       },
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sketch",
+          "name": "Figma",
           "type": "technology"
         }
       },
@@ -580,7 +569,25 @@
       },
       {
         "skill": {
-          "name": "Figma",
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sketch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -589,24 +596,41 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Superior tecnical Advertising Art",
-        "startDate": "2001-01-01",
-        "finishDate": "2002-12-31",
+        "name": "Graphic and Printing Equipment Operator",
+        "startDate": "1999-01-01",
         "institution": {
-          "name": "Escola Pablo Picasso, A Coruña",
-          "description": ""
-        }
+          "name": "Colexio Calvo Sotelo, A Coruña"
+        },
+        "finishDate": "2001-12-31"
       },
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Graphic and Printing Equipment Operator",
-        "startDate": "1999-01-01",
-        "finishDate": "2001-12-31",
+        "name": "Superior tecnical Advertising Art",
+        "startDate": "2001-01-01",
         "institution": {
-          "name": "Colexio Calvo Sotelo, A Coruña",
-          "description": "",
-          "URL": ""
+          "name": "Escola Pablo Picasso, A Coruña"
+        },
+        "finishDate": "2002-12-31"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacity for abstract thinking",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Leadership skills",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Listening ability",
+          "type": "practice"
         }
       }
     ]
@@ -615,9 +639,20 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/misteroom/"
+          "URL": "https://www.linkedin.com/in/misteroom/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/oscarotero/",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/misteroom",
+          "type": "twitter"
         }
+      ],
+      "contactMails": [
+        "oom@oscarotero.com"
       ]
     },
     "preferences": {
@@ -648,5 +683,51 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "CSS",
+        "type": "technology"
+      },
+      {
+        "name": "Figma",
+        "type": "technology"
+      },
+      {
+        "name": "HTML",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "- Citizen centered design, something like GDS.\n- Any company or NGO sensible with the inclusive design.\n- Something related with open-source.",
+    "goodPractices": "As a developer, I try to use web standards as much as posible. As a designer, accesibility and avoid dark patterns are top priority.",
+    "projects": [
+      {
+        "name": "Embed"
+      },
+      {
+        "name": "HA!"
+      },
+      {
+        "name": "Lume"
+      },
+      {
+        "name": "PHP Gettext"
+      },
+      {
+        "name": "jQuery stylesheet"
+      },
+      {
+        "name": "letrag"
+      }
+    ]
   }
 }
