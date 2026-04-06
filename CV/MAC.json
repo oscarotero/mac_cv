@@ -766,7 +766,7 @@
       }
     ],
     "desiredJobDescription": "- Citizen centered design, something like GDS.\n- Any company or NGO sensible with the inclusive design.\n- Something related with open-source.",
-    "goodPractices": "As a developer, I try to use web standards as much as posible. As a designer, accesibility and avoid dark patterns are top priority.",
+    "goodPractices": "As a developer, I try to use web standards as much as posible. I like to write clean elegant and readable code.\n\nAs a designer, seek beauty, accesibility and avoid dark patterns are my top priority.\n",
     "projects": [
       {
         "name": "Embed"
