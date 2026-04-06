@@ -58,6 +58,57 @@
     "jobs": [
       {
         "organization": {
+          "name": "Cluber",
+          "URL": "https://cluber.com"
+        },
+        "roles": [
+          {
+            "name": "Designer and frontend developer",
+            "startDate": "2025-09-01",
+            "challenges": [
+              {
+                "description": "As a designer, I'm working on the UX of the main product, defining flows, the design system and also creating the public landing page.\nAs a frontend developer, I'm helping to implement the designs with the other developers."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Figma",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Storybook",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "marketgoo",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/26/0c426301-7c4a-4860-9b92-1d35067ffb9c_logo_marketgoo-color.svg",
