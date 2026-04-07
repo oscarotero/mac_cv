@@ -607,6 +607,11 @@
         "name": "GL",
         "fullName": "Gallego",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
