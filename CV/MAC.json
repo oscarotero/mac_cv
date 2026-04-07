@@ -6,7 +6,7 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Oscar",
+      "name": "Óscar",
       "surnames": "Otero",
       "title": "Digital designer & web developer",
       "description": "I'm a digital designer with +20 years of experience building interfaces, design systems and everything related with providing the best UX as possible.\nAt the same time, I'm a web developer that can write high quality HTML, CSS and JavaScript/TypeScript code. I'm the creator and maintainer of some open source projects. The most popular is Lume (https://lume.land) a static site generator for Deno, written in TypeScript and used by some big companies.\n\nAs a designer, I like to work with developers, helping them to build beautiful and accesible interfaces.",
